@@ -1,0 +1,13 @@
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\bin\Debug\Project-DBCodeGenerator.exe.config
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\bin\Debug\Project-DBCodeGenerator.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\bin\Debug\Project-DBCodeGenerator.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\bin\Debug\Guna.UI2.dll
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.csproj.AssemblyReference.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project_DBCodeGenerator.Properties.Resources.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.csproj.GenerateResource.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.csproj.CoreCompileInputs.cache
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-.66209F1E.Up2Date
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.exe
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.pdb
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project_DBCodeGenerator.frmMain.resources
+D:\keroles\مشاكل وكورسات للسي شارب DB + .NET مهم جدااااااااا\Project-DBCodeGenerator\obj\Debug\Project-DBCodeGenerator.exe.config
