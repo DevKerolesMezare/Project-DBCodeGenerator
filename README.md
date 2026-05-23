@@ -1,16 +1,23 @@
-⭐ Key Features:
+## Key Features
 
-🔹 Database Discovery:
-Automatically retrieves server names, database names, tables, and column metadata.
+- Automatic database discovery including:
+  - SQL Server names
+  - Databases
+  - Tables
+  - Columns metadata
 
-🔹 Code Generation:
-Generates ready-to-use C# static methods based on stored procedures, including:
-- Add / Insert
-- Update
-- Get All
-- Delete
-- Check Existence (IsExist)
-- Extra features to speed up database tasks
+- Generates ready-to-use C# static methods based on SQL Server Stored Procedures:
+  - Add / Insert
+  - Update
+  - Delete
+  - Get All
+  - IsExist
 
-🔹Auto Data-Type Mapping:
-Converts SQL data types to the corresponding C# types during code creation (e.g., <varchar → string>).
+- Automatic SQL-to-C# data type mapping:
+  - `varchar → string`
+  - `int → int`
+  - `datetime → DateTime`
+
+- Reduced repetitive ADO.NET data access layer coding by more than 90%
+
+- Speeds up database development and minimizes manual coding effort
